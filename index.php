@@ -1,4 +1,5 @@
 <?php
-echo "olà Mundo"
+echo "olà Mundo 456";
+echo "Coleiras para cao cego";
 
 ?>
